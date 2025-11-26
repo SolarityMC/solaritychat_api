@@ -1,5 +1,6 @@
-API 
+# API
 
+```xml
 <dependencies>
     <dependency>
         <groupId>org.busybee</groupId>
@@ -8,3 +9,4 @@ API
         <scope>provided</scope>
     </dependency>
 </dependencies>
+```
